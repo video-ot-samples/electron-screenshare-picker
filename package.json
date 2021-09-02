@@ -1,0 +1,16 @@
+{
+  "name": "electron-screenshare-picker",
+  "version": "1.0.0",
+  "description": "Electron ScreenShare App with Picker",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."    
+  },
+  "author": "Rama Ganesan",
+  "license": "MIT",
+  "dependencies": {
+    "@opentok/client": "^2.20.1",
+    "electron": "^11.0.1",
+    "electron-log": "^4.4.1"
+  }
+}
