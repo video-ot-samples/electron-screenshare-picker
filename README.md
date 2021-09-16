@@ -21,7 +21,8 @@ npm
 4. `$ npm start`
 
 
-***Demo video and/or screenshots**
+**Demo video**
+
 [![Demo](https://i.vimeocdn.com/video/1242674637_1280x720)](https://vimeo.com/606085335 "")
 
 
