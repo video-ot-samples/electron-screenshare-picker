@@ -23,6 +23,5 @@ npm
 
 **Demo video**
 
-[![Demo](https://i.vimeocdn.com/video/1242678673_1280x720)](https://vimeo.com/606089018 "")
-
+[![Demo](https://vumbnail.com/606089018.jpg)](https://player.vimeo.com/video/606089018)
 
